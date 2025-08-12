@@ -132,4 +132,4 @@ MONGO_URI=mongodb+srv://<usuario>:<contraseña>@cluster0.mongodb.net/<nombreBase
 
 ## 🧑‍💻 Desarrollado por
 
-Tomás Moure
+Tomás Milano
